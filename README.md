@@ -70,7 +70,7 @@ Covers geographical performance across major markets:
 
 ## 🚀 How to Use
 1. Download the repository.  
-2. Open `dashboard.pbix` in **Power BI Desktop**.  
+2. Open Finance Dashboard.pbix in **Power BI Desktop**.  
 3. Allow custom visuals:  
    *File → Options → Security → Enable custom visuals*  
 4. Use slicers for Month, Year, and Product to interact with the report.  
